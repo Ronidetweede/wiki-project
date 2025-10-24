@@ -2,3 +2,5 @@
 
 
 Daar zijn de characters Bobber. Naast de fett zijn de op advontuur.
+
+Zo gaan ze de fouten van de master tegen.
